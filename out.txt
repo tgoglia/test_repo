@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<meta charset="utf-8"/>
+		<title>David Friesen - Home</title>
+		<link rel="StyleSheet" href="css/styles.css" type="text/css">
+		<link rel="StyleSheet" href="css/home.css" type="text/css">
+		<script type="text/javascript" src="music-player.js"></script>
+		
+	</head>
+	<body> 
+		<section id="HomePageContent">
+			
+			<h1><span class="OffWhiteText">david</span>friesen</h1>
+			<section id="HomePageLayout">
+				<section id="PageText">
+				
+					<section id="HeaderImageContainer">
+						<img src="dfimages/home.jpg" id="HeaderImage">
+					</section>
+					<section>
+						<i>Once in a great while, a musician emerges with such 
+						authority and such seemingly effortless originality 
+						that his place in the front ranks of his instrument is unquestioned. 
+						So it is with David Friesen.  
+						</i>
+						<div class="QuoteCredit">Nat Hentoff</div>
+
+						<i>David Friesen is doing for the bass what Pythagoras did for triangles.</i>
+						<div class="QuoteCredit">Patrick Hinely/Jazz Magazine</div>
+
+					
+					</section>
+
+					<section>
+						<h3>David Friesen's videos on YouTube:</h3>
+						    
+						    <a href="http://www.youtube.com/watch?v=aX7IcN5--5s" class="ArrowLink" target="_blank" style="text-decoration: underline;">
+						     David Friesen Story
+						    </a>&#160;&#160;&#160;&#160;
+						    <a href="http://www.youtube.com/watch?v=6XMcYCgQXMQ&amp;feature=related" class="ArrowLink" target="_blank" style="text-decoration: underline;">
+							Solo Bass
+						    </a>
+					</section>
+					<section>
+					 	<h3>The Circle 3 Trio recorded live on the AM Northwest TV show:</h3>
+						 
+						 <a href="http://www.katu.com/amnw/segments/128472488.html" class="ArrowLink" 
+							target="_blank" style="text-decoration: underline;">
+							http://www.katu.com/amnw/segments/128472488.html
+						</a>
+					</section>
+					<section>	 
+						<h3>Listen to David Friesen playing solo bass while
+						you look through his website:</h3>
+						 <a href="javascript:;" onclick="openMp3Player('peaceThatPasses.mp3!','The Peace That Passes Understanding')" 
+							class="SoundClipLink" style="font-size: 10pt;text-decoration:underline;">								
+								The Peace that Passes Understanding 
+						</a>
+						</section>
+					<nav>	
+						<div><a class="selected">Home</a></div>
+						<div><a href="workshops.html" class="HeaderLink">Workshops</a></div>
+						<div><a href="projects.html" class="HeaderLink">Projects</a></div>
+						<div><a href="ontour.html" class="HeaderLink">On Tour</a></div>
+						<div><a href="biography.html" class="HeaderLink">Biography</a></div>
+						<div><a href="discography.html" class="HeaderLink">Discography</a></div>
+						<div><a href="video.html" class="HeaderLink">Video</a></div>
+						<div><a href="contactinfo.html" class="HeaderLink">Contact</a></div>
+					</nav>
+				</section>
+	
+				<section class="BlueSideBar">
+					
+					<section>
+						<h3>Workshops/Lessons</h3>
+						David Friesen is now accepting students for private instruction and
+						for workshops on 'How to Follow the Music in a Small Ensemble Context'.
+						
+						<a class="ArrowLink" href="workshops.html">more</a>
+					</section>
+
+					<section>
+						<h3>Projects</h3>
+						David performs and records with a wide array of musicians. See details and 
+						listen to MP3 sound clips.
+						<a class="ArrowLink" href="projects.html">more</a>
+					</section>
+
+					<section>
+
+						<h3>On Tour</h3>
+						The schedule for David Friesen's live performances and clinics.
+						<a class="ArrowLink" href="ontour.html">more</a>
+					</section>
+					<section>
+
+						<h3>Recent Recordings</h3>
+						Information about David's recent recordings. Includes 
+						tracklists, personnel and soundclips.
+						<a class="ArrowLink" href="recent.html">more</a>
+					</section>
+
+					<section>
+						<h3>Articles and Reviews</h3>
+						Find out what the Jazz press is saying about David. See a list
+						of recent articles and reviews.
+						<a class="ArrowLink" href="articles.html">more</a>
+					</section>
+					<section>
+						<h3>Promotional Materials</h3>
+						High quality images for use in press releases.
+						<a class="ArrowLink" href="press.html">more</a>
+					</section>
+					
+				</section>
+			</section>
+		</section>	
+		
+
+								
+	
+		
+		
+	
+
+	</body>
+</html>
